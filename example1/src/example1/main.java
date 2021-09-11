@@ -6,8 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		
 		//This is better print order
-		System.out.println("Hello World");
-		System.out.println("Hello World");
+		System.out.println("Hello World1");
 		System.out.println("Hello World2");
 		System.out.println("Hello World3");
 		System.out.println("Hello World4");
@@ -16,6 +15,7 @@ public class main {
 		String s = "Hello world";
 
 		System.out.println(s);
+		System.out.println("Hello World Ended");
 	}
 
 }
