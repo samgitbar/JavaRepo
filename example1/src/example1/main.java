@@ -5,18 +5,17 @@ public class main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello World");
-		System.out.println("Hello World");
+		//This is better print order
+		System.out.println("Hello World1");
 		System.out.println("Hello World2");
 		System.out.println("Hello World3");
-
-		System.out.println("Hello World3");
-		
+		System.out.println("Hello World4");
 		System.out.println("Hello World5");
 
-		System.out.println("Hello World4");
+		String s = "Hello world";
 
-
+		System.out.println(s);
+		System.out.println("Hello World Ended");
 	}
 
 }
