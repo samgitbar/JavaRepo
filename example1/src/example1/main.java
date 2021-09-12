@@ -21,6 +21,11 @@ public class main {
 		}
 		
 		System.out.println("Hello World Ended");
+		Student std = new Student(1,"Aryan","ar@gmaial.com");
+		System.out.println("Student Info: ");
+		System.out.println("ID: "+ std.getName());
+		System.out.println("Email: " + std.getEmail());
+		
 		
 	}
 
