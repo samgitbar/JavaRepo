@@ -25,6 +25,7 @@ public class main {
 		System.out.println("Student Info: ");
 		System.out.println("ID: "+ std.getName());
 		System.out.println("Email: " + std.getEmail());
+		System.out.println("ID: "+std.getId());
 		
 		
 	}
